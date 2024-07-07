@@ -27,8 +27,6 @@ The app can also read out the translated text using text-to-speech functionality
 
 
 ## Installation and Usage
-### Clone the Repository: 
-git clone https://github.com/adlard07/Language-Translation-App
 
 ### Install Dependencies:
 ```bash
